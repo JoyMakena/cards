@@ -1,0 +1,129 @@
+@font-face {
+    font-family:Fraunces-Bold ;
+    src: url(Fraunces_72pt_SuperSoft-Bold.ttf);
+}
+
+
+
+@font-face {
+    font-family: Montserrat-bold;
+    src: url(Montserrat-Bold.ttf);
+}
+
+
+
+@font-face {
+    font-family:Montserrat-Medium ;
+    src: url(Montserrat-Medium.ttf);
+}
+
+#floral p {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: hsl(158, 36%, 37%);
+    
+}
+
+
+#type p {
+    padding-top: 15PX;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    color: hsl(158, 36% ,37%);
+    font-size: 40px;
+    gap: 5px;
+    
+}
+
+#perfume h2{
+    font-size:50px ;
+    font-family: Fraunces-Bold;
+    
+}
+
+main {
+    display: flex;
+    margin: 0 150px;
+    padding: 40px;
+}
+
+#design{
+    color: #478C5C;
+    font-size:60px;
+    font-family:fraunces-bold ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+
+
+body{
+    background-color: hsl(30, 38%, 98%);
+    margin: 200px;
+    
+}
+
+#perfume {
+    /* text-align: center; */
+    width: 450px;
+    /* height: 500px; */
+    padding-left: 20px;
+    border: hsl(0,0%,100% );
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: hsl(0,0%,100% );
+    /* padding-top: 50px; */
+    padding-bottom: 50px;
+
+
+}
+
+a  {
+    font-size: 20px;
+    font-family: Montserrat-bold;
+    text-decoration: none;
+    width:100%;
+    padding: 60px;
+    background-color:#478C5C ;
+    border-radius:10px ;
+    color:hsl(0,0%,100% ) ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+
+
+#design span {
+    font-size:15px ;
+    color:hsl(158, 36%, 37%) ;
+    padding-left: 10px;
+    
+}
+#image  img {
+    width: 460px;
+    /* height: 500px; */
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+    
+
+a:hover {
+    background-color: #004d25;
+    color: hsl(0,0%,100% );
+
+}
+
+
+
+
